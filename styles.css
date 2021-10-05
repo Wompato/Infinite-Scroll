@@ -41,7 +41,7 @@ h1 {
 .post {
     position: relative;
     background-color: #4992d3;
-    box-shadow: 0 2px 4px rgba(0,0,0,0,3);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
     border-radius: 3px;
     padding: 20px;
     margin: 40px 0;
